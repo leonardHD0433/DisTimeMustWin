@@ -32,7 +32,7 @@ Digital Online Pitching for the Finalist: **July 17, 2024 – July 19, 2024** (F
 
 - Warn users about potential threats in the internet.
 
-Let users flag suspicious stuff for the bigwigs to check out.
+- Let users flag suspicious stuff for the bigwigs to check out.
 
 
 
