@@ -56,8 +56,3 @@ Want to really impress the judges? Throw in some **AI** magic and watch those bo
 
 Stick to the script, folks! Make sure your solution ticks all the boxes in the problem statement, including languages, formats, and performance targets.
 
-
-
-Regards,
-
-ANCC2024 Organising Committee
