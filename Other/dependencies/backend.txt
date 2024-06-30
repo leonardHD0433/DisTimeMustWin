@@ -1,0 +1,20 @@
+libraries used: 
+flask 
+flask_restful 
+functools
+subprocess 
+urllib.parse
+threading
+tldextract
+re
+pandas
+pickle
+hashlib
+pymssql
+requests
+
+vm: Azure
+Linux (ubuntu 20.04)
+
+database:
+Azure Microsoft SQL server

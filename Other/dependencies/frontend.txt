@@ -1,0 +1,9 @@
+APK:
+make sure your system default is light mode 
+
+Frontend: 
+unzip the api_key.zip and copy the api key to the frontend path 
+/Frontend code/Frontend code/UrlDetection-master/Frontend code/UrlDetection-master/app/src/main/java/com.example.urldetection/ApiKeys.kt
+
+dependencies:
+/Frontend code/Frontend code/UrlDetection-master/Frontend code/UrlDetection-master/app/src/build.gradle.kts 

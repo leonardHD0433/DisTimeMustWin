@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrlDetection</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button_text">Check Url</string>
+    <string name="title">Url Detection</string>
+    <string name="url_input"></string>
+    <string name="textbox_title">Enter Url Here</string>
+</resources>
