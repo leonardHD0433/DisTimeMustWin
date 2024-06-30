@@ -7,3 +7,6 @@ unzip the api_key.zip and copy the api key to the frontend path
 
 dependencies:
 /Frontend code/Frontend code/UrlDetection-master/Frontend code/UrlDetection-master/app/src/build.gradle.kts 
+
+security: API key authentication
+          proguard-rules.pro (hide api key)

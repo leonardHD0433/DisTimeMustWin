@@ -18,3 +18,5 @@ Linux (ubuntu 20.04)
 
 database:
 Azure Microsoft SQL server
+
+security: API key authentication
