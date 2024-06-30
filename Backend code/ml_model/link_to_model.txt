@@ -1,0 +1,6 @@
+apologies due to problems with commiting the machine learning model of 800+ mb to the repository
+
+Filename: maliciousURL_classifier_official.pkl
+
+This is the link to the mode:
+https://1drv.ms/f/s!AipwVSXWcnZVgZtugbPzeiR8uJ_XSA?e=Vo9IuN 
